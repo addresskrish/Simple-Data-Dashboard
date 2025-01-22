@@ -2,6 +2,8 @@
 
 **Simple Data Dashboard** is a Python-based web application built using **Streamlit**. This app allows users to upload a CSV file, view the data, and explore it through visualizations and graphs. It's designed to make data analysis simple and intuitive, even for users with minimal technical knowledge.
 
+![image](https://github.com/addresskrish/Simple-Data-Dashboard/blob/main/sample.png)
+
 ## Features
 
 - **CSV File Upload**: Easily upload your own CSV file for analysis.
