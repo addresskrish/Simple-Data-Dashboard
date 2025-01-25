@@ -39,8 +39,3 @@
 
 ## Contributing
 - Contributions are welcome! Feel free to fork the repository and submit pull requests.
-  
-## License
-- This project is licensed under the MIT License.
-  ```bash
-  Save this content as `README.md` in your project directory. Let me know if you want to customize it further!
